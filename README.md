@@ -1,2 +1,2 @@
 # KinkList
-Easily create [a less shitass kink list](https://stickygrape.github.io/ActualGoodKinkList/v5000.html)
+Easily create [a less shitass kink list](https://PrimalDyke.github.io/stickygrape/v5000.html)
